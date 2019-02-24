@@ -4,6 +4,9 @@ import PackageDescription
 
 let package = Package(
     name: "Cairo",
+    products: [
+        .library(name: "Cairo", targets: ["Cairo"]),
+    ],
     dependencies: [
         .package(url: "https://github.com/aestesis/CCairo.git", .branch("master")),
         .package(url: "https://github.com/aestesis/CFontConfig.git", .branch("master")),

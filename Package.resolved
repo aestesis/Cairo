@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CCairo",
+        "repositoryURL": "https://github.com/aestesis/CCairo.git",
+        "state": {
+          "branch": "master",
+          "revision": "86cb03f102c9b8a4ca453413553887e46eafc1d8",
+          "version": null
+        }
+      },
+      {
+        "package": "CFontConfig",
+        "repositoryURL": "https://github.com/aestesis/CFontConfig.git",
+        "state": {
+          "branch": "master",
+          "revision": "c89a356411d8384e1c9744df884cad53391af3a4",
+          "version": null
+        }
+      },
+      {
+        "package": "CFreeType",
+        "repositoryURL": "https://github.com/aestesis/CFreeType.git",
+        "state": {
+          "branch": "master",
+          "revision": "3442374b7c35e9d967dfed863e7ea00e55d228a1",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
